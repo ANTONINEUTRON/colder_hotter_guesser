@@ -1,1 +1,1 @@
-A terminal based game for rust learning
+A terminal based COLDER-HOTTER game for learning rust
